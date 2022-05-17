@@ -1,0 +1,34 @@
+==========================================
+Katu anggota
+==========================================
+
+Hendri Sahroni ( syahrony2185@gmail.com )
+==========================================
+
+CARA INSTALL :
+
+1. ekstrak file kartu anggota custom.zip hasil download
+
+2. buka folder slims Anda, rename file submenu.php yang terdapat di folder admin/modules/membership (misal: submenu.old.php)
+
+3. copy paste file hasil ekstrak berikut, ke folder admin/modules/membership
+
+	- kartu_barcode_belakang.php
+	- kartu_tandatangan_belakang.php
+	- konversi_tanggal.php
+	- submenu.php
+
+4. gambar pelengkap ada di folder file/membercard
+
+5. login ke slims, menu keanggotaan, pilih submenu kartu barcode belakang atau kartu tandatangan belakang
+
+
+
+CATATAN :
+
+*Karena pada kartu ditampilkan tempat dan tanggal lahir anggota, maka pada setiap anggota pada ruas Alamat Surat/Member Mail Address diisi tempat lahir (lihat gambar screenshoot)
+
+
+Terima kasih kepada SDC
+
+
